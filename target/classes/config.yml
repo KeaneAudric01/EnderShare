@@ -1,0 +1,4 @@
+# config.yml
+
+# Duration (in seconds) a pending sharing invitation remains valid.
+penting_invitation_timeout: 60

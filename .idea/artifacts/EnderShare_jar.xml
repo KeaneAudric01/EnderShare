@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EnderShare:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EnderShare_jar</output-path>
+    <root id="archive" name="EnderShare.jar">
+      <element id="module-output" name="EnderShare" />
+    </root>
+  </artifact>
+</component>

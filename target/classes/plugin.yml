@@ -1,0 +1,8 @@
+name: EnderShare
+main: dev.keaneaudric.enderShare.EnderShare
+version: 1.0.0
+api-version: 1.13
+commands:
+  endershare:
+    description: Share your Ender Chest with another player.
+    usage: /endershare <invite|accept|unshare|status>
